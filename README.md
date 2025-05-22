@@ -16,10 +16,10 @@ Register Here : [Taker Lite Mining - Taker Protocol](https://earn.taker.xyz?star
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/TakerProtocol-BOT.git
+   git clone https://github.com/bilalrai2/Taker-Protocol.git
    ```
    ```bash
-   cd TakerProtocol-BOT
+   cd Taker-Protocol
    ```
 
 2. **Install Requirements:**
